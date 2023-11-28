@@ -2,7 +2,7 @@ How to protect /etc/resolv.conf after reboot?
 
 Once upon a time I had a problem with DNS configuration. Every reboot, the file /etc/resolv.conf was rewrite to from Network Manager. 
 
-** How to repair? **
+**** How to repair? ****
 
 We can use chattr command. 
 
