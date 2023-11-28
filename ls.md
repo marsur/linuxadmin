@@ -4,4 +4,6 @@
 
  try: 
 
- __ls command use when you want to see what is in directory __
+  **ls command use when you want to see what is in directory**
+
+  
