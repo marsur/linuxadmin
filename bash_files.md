@@ -1,4 +1,4 @@
-**whate are .bash_files? **
+**what are .bash_files? **
 
 cd ~ -- go to home directory
 <br /> <br />
