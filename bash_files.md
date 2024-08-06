@@ -6,7 +6,7 @@ ls -lha .bash*
 <br /><br />
 what is .bash_files? 
 <br /><br />
-.bash_history = file where is history of commands 
+.bash_history = file where is history  
 <br /><br />
 .bashrc = file where are permanent aliases and variables 
 <br /><br />
